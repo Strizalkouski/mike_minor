@@ -1,0 +1,43 @@
+body{
+  font-family: 'Libre Baskerville', serif;
+  background-color: black;
+  color: white;
+}
+
+.landing-header{
+  text-align:center;
+  position: relative;
+  padding: 2rem;
+  color: white;
+}
+
+footer{
+  text-align: center;
+  color: white;
+}
+
+.navbar{
+  text-align: center;
+  background-color: red;
+  display: inline-block;
+  position: relative;
+  top: 80;
+  padding: 0.5rem;
+  border-radius: 25px;
+  margin: 0 auto;
+  /* background-image: url(../assets/images/);   Image is going on this line
+  background-repeat: no-repeat;
+  background-position: fixed;
+  background-position: center center;
+  background-size: auto; */
+}
+
+.link{}
+
+.navbar a{
+  padding: 5px;
+  vertical-align: middle;
+  text-decoration: none;
+  color: white;
+
+}
